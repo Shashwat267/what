@@ -27,3 +27,15 @@ a:link, a:visited {
       height: 40vh;
     }
   }
+ @media only screen and (min-width:557px)and (max-width: 881px) {
+    button{
+      width: 90vh;
+      height: 40vh;
+    }
+  }
+  @media only screen and (min-width:881px)and (max-width: 1102px) {
+    button{
+      width: 35vh;
+      height: 40vh;
+    }
+  }
