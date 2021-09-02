@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(to right ,  #ee0979, #ff6a00);
+}
+a:link, a:visited {
+    color: white;
+
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+   
+  }
+
+  
+  button:hover, button:active {
+    background-image: linear-gradient(to bottom , rgb(7, 100, 175), rgb(7, 115, 187));
+  }
+  button{
+      margin:5vh ;
+      background-image: linear-gradient(to bottom , rgb(15, 190, 182), rgb(10, 192, 224 ));
+      border-radius: 20px;
+      height: 40vh;
+      width: 40vh;
+  }
+  @media only screen and (min-width:0px)and (max-width: 556px) {
+    button{
+      width: 90vh;
+      height: 40vh;
+    }
+  }
