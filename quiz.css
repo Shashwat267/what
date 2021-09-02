@@ -339,16 +339,16 @@ footer button.show{
 @media only screen and (min-width:0px)and (max-width: 580px) {
     .info_box{
        width: 330px;
-       margin-left: 20px;
+       
   }
   .quiz_box{
     width: 330px;
-    margin-left: 20px;
+   
     margin-top: 20px;
 }
 .result_box{
     width: 330px;
-    margin-left: 20px;
+    
     margin-top: 20px;
 }
 .result_box .buttons button{
